@@ -47,3 +47,23 @@
 Nguồn kỹ thuật:  [https://youtu.be/Jo6tL352oe4](https://youtu.be/Jo6tL352oe4)
 
 *Technical sources: [https://youtu.be/Jo6tL352oe4](https://youtu.be/Jo6tL352oe4)*
+
+### Mẫu web: [https://digitalskillsorg.com.au/](https://digitalskillsorg.com.au/)
+
+### Phân tích Layout
+
+```html
+body
+	header (shared UI)
+		section.top-logo
+		section.top-banner
+	main (unique content for each page)
+		section.about
+		section.forms
+		section.project
+		section.skill
+		section.pilot
+	footer (shared UI)
+		section.info-footer
+		
+```
